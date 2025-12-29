@@ -1,0 +1,5 @@
+{
+  "name": "Tree Lab: Data Structures Visualizer",
+  "description": "An interactive playground for exploring Decision Trees, Binary Search Trees (BST), and AVL Trees with D3-powered visualizations and Gemini-powered insights.",
+  "requestFramePermissions": []
+}
